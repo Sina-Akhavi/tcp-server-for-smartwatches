@@ -3,6 +3,7 @@ import socket
 SERVER = "192.168.39.144"
 PORT = 5050
 
+
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
 
